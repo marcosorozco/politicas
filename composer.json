@@ -1,0 +1,22 @@
+{
+    "name": "marcosorozco/politicas",
+    "description": "Paquete para manejar las politicas dentro de laravel",
+    "type": "package",
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Marcosorozco\\Politicas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcos Orozco",
+            "email": "marcosorozco.14@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
